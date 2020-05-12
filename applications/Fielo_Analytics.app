@@ -5,7 +5,6 @@
         <logo>charts_graphs</logo>
         <logoVersion>1</logoVersion>
     </brand>
-    <formFactors>Small</formFactors>
     <formFactors>Large</formFactors>
     <label>Fielo Analytics</label>
     <navType>Standard</navType>
