@@ -29,8 +29,4 @@
     <showDetails>true</showDetails>
     <sortColumn>FieloPLT__Level__c.FieloPLT__Order__c</sortColumn>
     <sortOrder>Asc</sortOrder>
-    <timeFrameFilter>
-        <dateColumn>FieloPLT__Level__c.FieloPLT__RankExpirationDate__c</dateColumn>
-        <interval>INTERVAL_CUSTOM</interval>
-    </timeFrameFilter>
 </Report>
