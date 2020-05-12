@@ -88,9 +88,6 @@
         <field>FK_$FieloPLT__Challenge__c.FieloPLT__IsProcessed__c</field>
     </columns>
     <columns>
-        <field>FK_$FieloPLT__Challenge__c.FieloPLT__KeepDemoteHistory__c</field>
-    </columns>
-    <columns>
         <field>FK_$FieloPLT__Challenge__c.FieloPLT__LevelSummary__c</field>
     </columns>
     <columns>
