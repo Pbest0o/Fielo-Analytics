@@ -115,9 +115,6 @@
         <field>FK_$FieloPLT__Challenge__c.FieloPLT__TableType__c</field>
     </columns>
     <columns>
-        <field>FK_$FieloPLT__Challenge__c.FieloPLT__TargetAudience__c</field>
-    </columns>
-    <columns>
         <field>FK_$FieloPLT__Challenge__c.FieloPLT__TrackerMode__c</field>
     </columns>
     <columns>
