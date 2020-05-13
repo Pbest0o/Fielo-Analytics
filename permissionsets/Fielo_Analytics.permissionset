@@ -40,10 +40,6 @@
         <visibility>Available</visibility>
     </tabSettings>
     <tabSettings>
-        <tab>Fielo_Stats</tab>
-        <visibility>Visible</visibility>
-    </tabSettings>
-    <tabSettings>
         <tab>Incentives_Performance</tab>
         <visibility>Visible</visibility>
     </tabSettings>
