@@ -11,7 +11,6 @@
     <tab>Program_Performance</tab>
     <tab>Key_Peformance_Indicatiors</tab>
     <tab>Incentives_Performance</tab>
-    <tab>Fielo_Stats</tab>
     <uiType>Lightning</uiType>
     <utilityBar>Fielo_Analytics_UtilityBar1</utilityBar>
 </CustomApplication>
