@@ -17,7 +17,6 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>Fielo_Stats</members>
         <members>Incentives_Performance</members>
         <members>Key_Peformance_Indicatiors</members>
         <members>Program_Performance</members>
@@ -31,7 +30,6 @@
     </types>
     <types>
         <members>Fielo_Analytics_UtilityBar1</members>
-        <members>Fielo_Stats</members>
         <members>Incentives_Performance</members>
         <members>Key_Performance_Indicators</members>
         <members>Program_Metrics</members>
