@@ -471,7 +471,6 @@
     </dashboardGridLayout>
     <dashboardType>SpecifiedUser</dashboardType>
     <isGridLayout>true</isGridLayout>
-    <runningUser>fieloanalyticsps@fielo.com</runningUser>
     <textColor>#000000</textColor>
     <title>Incentive Performance - Fielo Analytics</title>
     <titleColor>#000000</titleColor>
