@@ -528,7 +528,6 @@
     </dashboardGridLayout>
     <dashboardType>SpecifiedUser</dashboardType>
     <isGridLayout>true</isGridLayout>
-    <runningUser>fieloanalyticsps@fielo.com</runningUser>
     <textColor>#000000</textColor>
     <title>Program Metrics - Fielo Analytics</title>
     <titleColor>#000000</titleColor>
